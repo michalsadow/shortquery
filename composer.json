@@ -13,23 +13,23 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/przeslijmi/sexceptions"
+      "url": "https://github.com/michalsadow/sexceptions"
     },
     {
       "type": "vcs",
-      "url": "https://github.com/przeslijmi/cliapp"
+      "url": "https://github.com/michalsadow/cliapp"
     },
     {
       "type": "vcs",
-      "url": "https://github.com/przeslijmi/silogger"
+      "url": "https://github.com/michalsadow/silogger"
     },
     {
       "type": "vcs",
-      "url": "https://github.com/przeslijmi/sivalidator"
+      "url": "https://github.com/michalsadow/sivalidator"
     },
     {
       "type": "vcs",
-      "url": "https://github.com/przeslijmi/sihdd"
+      "url": "https://github.com/michalsadow/sihdd"
     }
   ],
   "require": {
